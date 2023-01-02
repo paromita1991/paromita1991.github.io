@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, <a href='[https://www.marshall.usc.edu/](https://www.marshall.usc.edu/departments/data-sciences-and-operations)'>DSO Department</a>, <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>paromita@marshall.usc.edu</p>
     <p>BRI 401P</p>
     <p>3670 Trousdale Pkwy</p>
     <p>Los Angeles, CA 90089</p>
