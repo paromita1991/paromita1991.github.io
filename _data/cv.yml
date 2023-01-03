@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Paromita Dubey
-    - name: Date of Birth
-      value: 14th April 1991
-    - name: Languages
-      value: English, Bengali, Hindi
-
 - title: Education
   type: time_table
   contents:
