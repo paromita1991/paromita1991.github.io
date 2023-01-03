@@ -10,7 +10,7 @@ nav_order: 5
 
 
 
-<p>At USC Marshall</p>
+<p>At <span style="color: purple;">USC Marshall</span></p>
 <ul>
 <li>Spring 2022, 2023 -  BUAD 310 (Applied Business Statistics)</li>
 </ul>
