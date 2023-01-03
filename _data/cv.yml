@@ -71,11 +71,24 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - USC Zumberge Individual Research Award
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - IMS New Researcher Travel Award
+    - year: 2019
+      items: 
+        - Peter Hall Graduate Research Award
+        - SF Bay Area Chapter of ASA Travel Award for Joint Statistical Meetings 2019 for "Modeling Time Varying Random Objects and Dynamic Networks"
+    - year: 2018
+      items: 
+        - Best Paper Award, Section on Nonparametric Statistics, Joint Statistical Meetings, 2018 for "Fréchet Analysis of Variance for Random Objects"
+        - Student Paper Award, International Indian Statistical Association Conference
+        - UC Davis and Humanities Graduate Research Award
+        - UC Davis Graduate Studies Travel Award
+    - year: 2015-17
+      items: 
+        - Summer Statistics Research Fellowship, UC Davis
+        
 
