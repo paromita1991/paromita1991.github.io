@@ -27,7 +27,7 @@ From September 2020-June 2021, I was a [Stein Fellow](https://statistics.stanfor
 
 If you are a PhD student already admitted to USC and interested in my research, please feel free to email me about possible collaborations. If you are interested in our PhD program, please visit the [PhD program information page](https://www.marshall.usc.edu/programs/phd-program/departments/data-sciences-and-operations). Applications to the PhD program are handled by the department through the official procedure described in the above page.
 
-I love to sketch. In my spare time I sometimes go on sketchcrawls. I enjoy being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
+In my spare time I enjoy [urban sketching](https://urbansketchers.org/). I love being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
 
 
 
