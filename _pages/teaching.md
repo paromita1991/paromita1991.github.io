@@ -13,6 +13,7 @@ nav_order: 5
 <p>At <span style="color: purple;"><b>USC Marshall</b></span></p>
 <ul>
 <li>Spring 2022, 2023 -  BUAD 310 (Applied Business Statistics)</li>
+<li>Spring 2024 -  DSO 530 (Applied Modern Statistical Learning Methods)</li>
 </ul>
 
 <p>At <span style="color: purple;"><b>Stanford University</b></span></p>
