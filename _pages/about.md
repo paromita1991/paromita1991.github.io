@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Kenneth King Stonier Assistant Professor of Business Administration and Assistant Professor of Data Sciences and Operations, <a href='[https://www.marshall.usc.edu/](https://www.marshall.usc.edu/departments/data-sciences-and-operations)'>DSO Department</a>, <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>. 
+subtitle: "Kenneth King Stonier Assistant Professor of Business Administration and Assistant Professor of Data Sciences and Operations, <a href='https://www.marshall.usc.edu/departments/data-sciences-and-operations'>DSO Department</a>, <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>."
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome!
 
-I am the Kenneth King Stonier Assistant Professor of Business Administration and an Assistant Professor of Data Sciences and Operations in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) ([Statistics Group](https://usc-dso-stat-group.github.io/))at the [USC Marshall Business School](https://www.marshall.usc.edu/) since June 2021. My research centers around statistical modeling, inference and machine learning with non-Euclidean data, examples being distribution and network valued data and time varying object data. Here are links to my [CV](/assets/pdf/paromita_CV.pdf ), [Google Scholar](https://scholar.google.com/citations?user=sjPHTcoAAAAJ&hl=en) and [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=249638). 
+I am the Kenneth King Stonier Assistant Professor of Business Administration and an Assistant Professor of Data Sciences and Operations in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) ([Statistics Group](https://usc-dso-stat-group.github.io/)) at the [USC Marshall Business School](https://www.marshall.usc.edu/) since June 2021. My research centers around statistical modeling, inference and machine learning with non-Euclidean data, examples being distribution and network valued data and time varying object data. Here are links to my [CV](/assets/pdf/paromita_CV.pdf), [Google Scholar](https://scholar.google.com/citations?user=sjPHTcoAAAAJ&hl=en) and [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=249638). 
 
 In Fall 2021, I attended the [Geometric Methods in Optimization and Sampling](https://simons.berkeley.edu/programs/geometric-methods-optimization-sampling) workshop at the Simons Institute for the Theory of Computing. From September 2020-June 2021, I was a [Stein Fellow](https://statistics.stanford.edu/people/stein-fellows) in the [Department of Statistics](https://statistics.stanford.edu/) at [Stanford University](https://www.stanford.edu/). Prior to Stanford, I was a postdoc working with [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/), who is also my PhD advisor, and [Prof. Jane-Ling Wang](https://www.stat.ucdavis.edu/~wang/) in the [Department of Statistics](https://statistics.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). I finished my [PhD in June 2019](https://www.proquest.com/openview/3504234e9a44ce83a9a9a8192fc53da6/1?pq-origsite=gscholar&cbl=18750&diss=y). Before that I obtained a Bachelor of Statistics in 2012 and a Master of Statistics in 2014 from the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
 
