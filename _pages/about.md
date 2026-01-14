@@ -30,4 +30,4 @@ In Fall 2021, I attended the [Geometric Methods in Optimization and Sampling](ht
 
 I am interested in new collaborations of mutual interest. You are welcome to connect if you would like to work together. If you are an existing PhD student at USC and interested in my research, please feel free to email me regarding research opportunities. If you are interested in our [PhD program](https://uscstats.github.io/), please visit the [PhD program information page](https://www.marshall.usc.edu/programs/phd-program/departments/data-sciences-and-operations). Ph.D. candidates are admitted and funded by the school, not by individual faculty.
 
-In my spare time I enjoy urban sketching and volunteering at the Westside German Shepherd Rescue which is very close to USC. I love hiking and being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
+In my spare time I enjoy urban sketching and volunteering at the Westside German Shepherd Rescue. I love hiking and being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
