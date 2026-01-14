@@ -25,6 +25,14 @@ I am the Kenneth King Stonier Assistant Professor of Business Administration and
 
 In Fall 2021, I attended the [Geometric Methods in Optimization and Sampling](https://simons.berkeley.edu/programs/geometric-methods-optimization-sampling) workshop at the Simons Institute for the Theory of Computing. From September 2020-June 2021, I was a [Stein Fellow](https://statistics.stanford.edu/people/stein-fellows) in the [Department of Statistics](https://statistics.stanford.edu/) at [Stanford University](https://www.stanford.edu/). Prior to Stanford, I was a postdoc working with [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/), who is also my PhD advisor, and [Prof. Jane-Ling Wang](https://www.stat.ucdavis.edu/~wang/) in the [Department of Statistics](https://statistics.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). I finished my [PhD in June 2019](https://www.proquest.com/openview/3504234e9a44ce83a9a9a8192fc53da6/1?pq-origsite=gscholar&cbl=18750&diss=y). Before that I obtained a Bachelor of Statistics in 2012 and a Master of Statistics in 2014 from the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
 
+I am interested in new collaborations of mutual interest. You are welcome to connect if you would like to work together. If you are an existing PhD student at USC and interested in my research, please feel free to email me regarding research opportunities. If you are interested in our [PhD program](https://uscstats.github.io/), please visit the [PhD program information page](https://www.marshall.usc.edu/programs/phd-program/departments/data-sciences-and-operations).  Ph.D. candidates are admitted and funded by the school, not by individual faculty. 
+
+In my spare time I enjoy urban sketching and volunteering at the Westside German Shepherd Rescue which is very close to USC. I love hiking and being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
+
+
+
+
+
 
 
 
