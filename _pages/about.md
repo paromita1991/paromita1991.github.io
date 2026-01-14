@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Kenneth King Stonier Assistant Professor of Business Administration and Assistant Professor of Data Sciences and Operations, <a href='[https://www.marshall.usc.edu/](https://www.marshall.usc.edu/departments/data-sciences-and-operations)'>DSO Department</a>, <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>. 
 
