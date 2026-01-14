@@ -1,23 +1,26 @@
 ---
-
 layout: about
 title: About
-permalink: /
-subtitle: Kenneth King Stonier Assistant Professor of Business Administration and Assistant Professor of Data Sciences and Operations, <a href='https://www.marshall.usc.edu/departments/data-sciences-and-operations'>DSO Department</a>, <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>.
+permalink: /about/
+subtitle: >
+  Kenneth King Stonier Assistant Professor of Business Administration and Assistant
+  Professor of Data Sciences and Operations, <a href="https://www.marshall.usc.edu/departments/data-sciences-and-operations">DSO Department</a>, 
+  <a href="https://www.marshall.usc.edu/">USC Marshall Business School</a>.
 
 profile:
   align: right
-  image: assets/images/prof_pic.jpg  # Updated image path
-  image_circular: false # crops the image to make it circular
-  contact: |
-    - Email: paromita@marshall.usc.edu
-    - Office: BRI 401P
-    - Address: 3670 Trousdale Pkwy, Los Angeles, CA 90089
+  image: assets/images/prof_pic.jpg
+  image_circular: false
+  contact: >
+    <p>
+      Email: paromita@marshall.usc.edu<br>
+      Office: BRI 401P<br>
+      Address: 3670 Trousdale Pkwy, Los Angeles, CA 90089
+    </p>
 
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
-
+news: true
+selected_papers: false
+social: true
 ---
 
 Welcome!
