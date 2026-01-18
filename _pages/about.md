@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: >
   Kenneth King Stonier Assistant Professor of Business Administration and Assistant Professor of Data Sciences and Operations,
