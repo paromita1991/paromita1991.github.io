@@ -30,4 +30,4 @@ From September 2020–June 2021, I was a [Stein Fellow](https://statistics.stanf
 
 I am interested in new research collaborations. You are welcome to connect if you are interested in working together. If you are an existing PhD student at USC and interested in my research, please feel free to email me regarding research opportunities. If you are interested in our [PhD program](https://uscstats.github.io/), please visit the [PhD program information page](https://www.marshall.usc.edu/programs/phd-program/departments/data-sciences-and-operations). Ph.D. candidates are admitted and funded by the school, not by individual faculty.
 
-In my spare time I enjoy urban sketching and volunteering at the Westside German Shepherd Rescue of Los Angeles, close to USC. I love hiking and being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
+In my spare time I enjoy urban sketching and volunteering at the Westside German Shepherd Rescue of Los Angeles. I love hiking and being outdoors, and given any opportunity I like to find myself on a ridge or a peak or a pass or a lake.
