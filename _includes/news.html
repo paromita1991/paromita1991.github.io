@@ -7,10 +7,10 @@
         <li>
           {% if item.url %}
             <a class="news-title" href="{{ item.url | relative_url }}">
-              {{ item.text }}
+              {{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}
             </a>
           {% else %}
-            {{ item.text }}
+            {{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}
           {% endif %}
         </li>
       {% endfor %}
