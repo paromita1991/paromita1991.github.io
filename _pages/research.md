@@ -9,11 +9,60 @@ nav_order: 2
 
 
 
-<span style="color: purple;"><b>Analysis of random objects</b></span> - theory-backed methods and inference for analyzing metric space valued data with applications in brain imaging studies, child neurological development, traffic network analysis, social network analysis, genetics and compositional data.
+<style>
+  .research-areas {
+    max-width: 900px;
+  }
 
-<span style="color: purple;"><b>Functional and longitudinal data analysis and its overlap with metric geometry</b></span>- studying samples of dynamic metric space data, examples being time varying networks, distributions or tree valued data.
+  .research-item {
+    margin-bottom: 1.25rem;
+  }
 
-<span style="color: purple;"><b>Modeling and inference for dynamic networks</b></span>- generating mechanisms and network archeology.
+  .research-title {
+    font-weight: 600;
+    color: #6f42c1; /* modern muted purple */
+    display: block;
+    margin-bottom: 0.25rem;
+    font-size: 1.05rem;
+  }
 
-<span style="color: purple;"><b>Online learning problems</b></span>- analysis of streaming object data.
+  .research-desc {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+</style>
+
+<div class="research-areas">
+
+  <div class="research-item">
+    <span class="research-title">Analysis of Random Objects</span>
+    <span class="research-desc">
+      Theory-backed methods and inference for analyzing metric-space–valued data, with applications in brain imaging studies, child neurological development, traffic network analysis, social network analysis, genetics, and compositional data.
+    </span>
+  </div>
+
+  <div class="research-item">
+    <span class="research-title">Functional and Longitudinal Data Analysis</span>
+    <span class="research-desc">
+      Statistical analysis of dynamic metric-space data, including time-varying networks, distributions, and tree-valued objects, and their connections with metric geometry.
+    </span>
+  </div>
+
+  <div class="research-item">
+    <span class="research-title">Modeling and Inference for Dynamic Networks</span>
+    <span class="research-desc">
+      Generative mechanisms, temporal evolution, and network archaeology.
+    </span>
+  </div>
+
+  <div class="research-item">
+    <span class="research-title">Online Learning Problems</span>
+    <span class="research-desc">
+      Learning and inference for streaming object-valued data.
+    </span>
+  </div>
+
+</div>
+
 
