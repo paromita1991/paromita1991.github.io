@@ -17,10 +17,10 @@ nav_order: 4
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --accent-purple: #bfa7ff;   /* softer purple for dark mode */
-      --text-primary: #eaeaea;
-      --text-secondary: #b5b5b5;
-      --text-muted: #cfcfcf;
+      --accent-purple: #c9b8ff;   /* slightly brighter purple */
+      --text-primary: #f2f2f2;    /* near-white for names */
+      --text-secondary: #d0d0d0;  /* readable but subtle */
+      --text-muted: #e4e4e4;      /* main body text */
     }
   }
 
@@ -63,6 +63,7 @@ nav_order: 4
     text-decoration: underline;
   }
 </style>
+
 
 
 <div class="people-section">
