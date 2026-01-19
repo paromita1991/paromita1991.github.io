@@ -8,9 +8,10 @@ nav_order: 3
 ---
 
 <p><font size="+2">Current Students and Postdocs:</font></p>
-
-[Jongmin Mun](https://jong-min.org/) (2024-present)
-[Ao Sun](https://ao-sun.github.io/) (2024-present)
+<p>
+  <a href="https://jong-min.org/">Jongmin Mun</a> (2024–present)<br>
+  <a href="https://ao-sun.github.io/">Ao Sun</a> (2024–present)
+</p>
 
 <p><font size="+2">Past Students:</font></p>
 
