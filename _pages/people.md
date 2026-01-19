@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title: People
 description: 
 nav: true
 nav_order: 3
@@ -13,6 +13,6 @@ nav_order: 3
   <a href="https://ao-sun.github.io/">Ao Sun</a> (2024–present)
 </p>
 
-<p><font size="+2">Past Students:</font></p>
+<p><font size="+2">Alumni:</font></p>
 
 [Minxing Zheng](https://www.marshall.usc.edu/personnel/minxing-zheng) (2022-2024)
