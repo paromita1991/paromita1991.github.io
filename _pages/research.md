@@ -37,7 +37,7 @@ nav_order: 2
 <div class="research-areas">
 
   <div class="research-item">
-    <span class="research-title">Analysis of Random Objects</span>
+    <span class="research-title">Learning and Inference for Random Objects</span>
     <span class="research-desc">
       Theory-backed methods and inference for analyzing metric space–valued data, aka random objects, with applications in brain imaging studies, child neurological development, traffic network analysis, social network analysis, genetics, and compositional data.
     </span>
