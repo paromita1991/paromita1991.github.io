@@ -7,12 +7,67 @@ nav: true
 nav_order: 4
 ---
 
-<p><font size="+2">Current Students and Postdocs:</font></p>
-<p>
-  <a href="https://jong-min.org/">Jongmin Mun</a> (2024–present)<br>
-  <a href="https://ao-sun.github.io/">Ao Sun</a> (2024–present)
-</p>
+<style>
+  .people-section {
+    max-width: 900px;
+    margin-top: 1.5rem;
+  }
 
-<p><font size="+2">Alumni:</font></p>
+  .people-heading {
+    font-weight: 600;
+    color: #6f42c1; /* same muted purple */
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+  }
 
-[Minxing Zheng](https://www.marshall.usc.edu/personnel/minxing-zheng) (2022-2024)
+  .people-list {
+    margin-left: 1rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .people-list li {
+    margin-bottom: 0.4rem;
+    color: #444;
+    line-height: 1.4;
+  }
+
+  .people-years {
+    color: #666;
+    font-size: 0.9rem;
+    margin-left: 0.25rem;
+  }
+
+  .people-list a {
+    text-decoration: none;
+    color: #222;
+    font-weight: 500;
+  }
+
+  .people-list a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="people-section">
+
+  <div class="people-heading">Current Students and Postdocs</div>
+  <ul class="people-list">
+    <li>
+      <a href="https://jong-min.org/">Jongmin Mun</a>
+      <span class="people-years">(2024–Present)</span>
+    </li>
+    <li>
+      <a href="https://ao-sun.github.io/">Ao Sun</a>
+      <span class="people-years">(2024–Present)</span>
+    </li>
+  </ul>
+
+  <div class="people-heading">Alumni</div>
+  <ul class="people-list">
+    <li>
+      <a href="https://www.marshall.usc.edu/personnel/minxing-zheng">Minxing Zheng</a>
+      <span class="people-years">(2022–2024)</span>
+    </li>
+  </ul>
+
+</div>
