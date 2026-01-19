@@ -16,7 +16,7 @@ nav_order: 2
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --accent-purple: #bfa7ff;   /* softer purple for dark mode */
+      --accent-purple: #bfa7ff;
       --text-primary: #eaeaea;
       --text-secondary: #b5b5b5;
     }
@@ -40,10 +40,12 @@ nav_order: 2
 
   .research-desc {
     color: var(--text-secondary);
-    font-size: 0.95rem;
-    line-height: 1.5;
+    font-size: 1.0rem;      /* was 0.95rem */
+    font-weight: 450;       /* subtle emphasis */
+    line-height: 1.6;       /* better readability */
   }
 </style>
+
 
 <div class="research-areas"> 
   
