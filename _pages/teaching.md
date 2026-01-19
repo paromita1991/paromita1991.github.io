@@ -10,18 +10,25 @@ nav_order: 5
 <style>
   :root {
     --accent-purple: #6f42c1;
-    --text-primary: #222;   
-    --text-muted: #444;     
-    --text-secondary: #666; 
+    --course-text: #444;
+    --term-text: #666;
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
       --accent-purple: #bfa7ff;
-      --text-primary: #ffffff;   
-      --text-muted: #bdbdbd;
-      --text-secondary: #9e9e9e; 
+      --course-text: #ffffff;
+      --term-text: #9e9e9e;
     }
+  }
+
+  html[data-theme="dark"],
+  html.dark,
+  body.dark,
+  body[data-theme="dark"] {
+    --accent-purple: #bfa7ff;
+    --course-text: #ffffff;
+    --term-text: #9e9e9e;
   }
 
   .teaching-section {
@@ -41,30 +48,29 @@ nav_order: 5
     margin-bottom: 0.75rem;
   }
 
-  .teaching-list li {
-    margin-bottom: 0.4rem;
-    color: var(--text-primary); 
+  .teaching-section .teaching-list li {
+    color: var(--course-text) !important;
+    opacity: 1 !important;
     font-weight: 350;
     font-size: 1rem;
     line-height: 1.5;
-    opacity: 1 !important; 
   }
 
-  .teaching-term {
-    color: var(--text-secondary);
-    font-size: 1rem;
+  .teaching-section .teaching-term {
+    color: var(--term-text) !important;
+    opacity: 1 !important;
     font-weight: 350;
+    font-size: 1rem;
   }
 
-  .teaching-list li em,
-  .teaching-list li strong,
-  .teaching-list li a {
+  .teaching-section .teaching-list li em,
+  .teaching-section .teaching-list li strong,
+  .teaching-section .teaching-list li a {
+    color: inherit !important;
+    opacity: 1 !important;
     font-size: inherit;
-    color: inherit;
   }
 </style>
-
-
 
 
 
