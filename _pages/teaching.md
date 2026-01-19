@@ -7,17 +7,30 @@ nav: true
 nav_order: 5
 ---
 
-
-
-
 <style>
+  :root {
+    --accent-purple: #6f42c1;
+    --text-primary: #222;
+    --text-muted: #444;
+    --text-secondary: #666;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --accent-purple: #bfa7ff;
+      --text-primary: #eaeaea;
+      --text-muted: #bdbdbd;
+      --text-secondary: #9e9e9e;
+    }
+  }
+
   .teaching-section {
     max-width: 900px;
   }
 
   .teaching-institution {
     font-weight: 600;
-    color: #6f42c1; /* same muted purple */
+    color: var(--accent-purple);
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
     font-size: 1.05rem;
@@ -30,15 +43,18 @@ nav_order: 5
 
   .teaching-list li {
     margin-bottom: 0.4rem;
-    color: #444;
-    line-height: 1.4;
+    color: var(--text-muted);
+    font-weight: 350;       /* matches research descriptions */
+    line-height: 1.5;
   }
 
   .teaching-term {
-    color: #666;
+    color: var(--text-secondary);
     font-size: 0.9rem;
+    font-weight: 350;
   }
 </style>
+
 
 <div class="teaching-section">
 
