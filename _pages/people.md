@@ -10,17 +10,18 @@ nav_order: 4
 <style>
   :root {
     --accent-purple: #6f42c1;
-    --text-primary: #222;
-    --text-secondary: #666;
-    --text-muted: #444;
+    --text-primary: #222;     /* names */
+    --text-muted: #444;       /* list text */
+    --text-secondary: #666;   /* years */
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --accent-purple: #c9b8ff;   /* slightly brighter purple */
-      --text-primary: #f2f2f2;    /* near-white for names */
-      --text-secondary: #d0d0d0;  /* readable but subtle */
-      --text-muted: #e4e4e4;      /* main body text */
+      /* tuned specifically for #000 backgrounds */
+      --accent-purple: #a892ff;  /* muted, not neon */
+      --text-primary: #bfbfbf;   /* names: readable, not white */
+      --text-muted: #a8a8a8;     /* main text */
+      --text-secondary: #8a8a8a; /* years */
     }
   }
 
@@ -63,7 +64,6 @@ nav_order: 4
     text-decoration: underline;
   }
 </style>
-
 
 
 <div class="people-section">
