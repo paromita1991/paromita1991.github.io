@@ -41,19 +41,31 @@ nav_order: 5
     margin-bottom: 0.75rem;
   }
 
+  /* Course number + course name: same color + same font size */
   .teaching-list li {
     margin-bottom: 0.4rem;
     color: var(--text-muted);
-    font-weight: 350;       /* matches research descriptions */
+    font-weight: 350;
+    font-size: 1rem;     /* enforce same size across all items */
     line-height: 1.5;
   }
 
+  /* Timing stays as-is */
   .teaching-term {
     color: var(--text-secondary);
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 350;
   }
+
+  /* If you wrap course title in <em> or <strong>, keep sizing consistent */
+  .teaching-list li em,
+  .teaching-list li strong,
+  .teaching-list li a {
+    font-size: inherit;
+    color: inherit;      /* course number and name same color */
+  }
 </style>
+
 
 
 <div class="teaching-section">
