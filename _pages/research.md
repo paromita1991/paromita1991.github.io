@@ -33,26 +33,27 @@ nav_order: 2
   }
 </style>
 
+
 <div class="research-areas">
 
   <div class="research-item">
     <span class="research-title">Analysis of Random Objects</span>
     <span class="research-desc">
-      Theory-backed methods and inference for analyzing metric-space–valued data, with applications in brain imaging studies, child neurological development, traffic network analysis, social network analysis, genetics, and compositional data.
+      Theory-backed methods and inference for analyzing metric space–valued data, aka random objects, with applications in brain imaging studies, child neurological development, traffic network analysis, social network analysis, genetics, and compositional data.
     </span>
   </div>
 
   <div class="research-item">
     <span class="research-title">Functional and Longitudinal Data Analysis</span>
     <span class="research-desc">
-      Statistical analysis of dynamic metric-space data, including time-varying networks, distributions, and tree-valued objects, and their connections with metric geometry.
+      Statistical analysis of dynamic metric space data, including time-varying networks, distributions, and tree-valued objects, and their connections with metric geometry.
     </span>
   </div>
 
   <div class="research-item">
     <span class="research-title">Modeling and Inference for Dynamic Networks</span>
     <span class="research-desc">
-      Generative mechanisms, temporal evolution, and network archaeology.
+      Generating mechanisms, temporal evolution, and network archaeology.
     </span>
   </div>
 
