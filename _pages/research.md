@@ -41,7 +41,7 @@ nav_order: 2
   .research-desc {
     color: var(--text-secondary);
     font-size: 1.0rem;      /* was 0.95rem */
-    font-weight: 450;       /* subtle emphasis */
+    font-weight: 350;       /* subtle emphasis */
     line-height: 1.6;       /* better readability */
   }
 </style>
