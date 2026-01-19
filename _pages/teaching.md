@@ -47,6 +47,7 @@ nav_order: 5
     font-weight: 350;
     font-size: 1rem;
     line-height: 1.5;
+    opacity: 1 !important; 
   }
 
   .teaching-term {
