@@ -10,17 +10,17 @@ nav_order: 5
 <style>
   :root {
     --accent-purple: #6f42c1;
-    --text-primary: #222;
-    --text-muted: #444;
-    --text-secondary: #666;
+    --text-primary: #222;   
+    --text-muted: #444;     
+    --text-secondary: #666; 
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
       --accent-purple: #bfa7ff;
-      --text-primary: #ffffff;   /* WHITE text in dark mode */
-      --text-muted: #ffffff;     /* course numbers + names */
-      --text-secondary: #9e9e9e; /* timing stays muted */
+      --text-primary: #ffffff;   
+      --text-muted: #bdbdbd;
+      --text-secondary: #9e9e9e; 
     }
   }
 
@@ -43,7 +43,7 @@ nav_order: 5
 
   .teaching-list li {
     margin-bottom: 0.4rem;
-    color: var(--text-muted);
+    color: var(--text-primary); 
     font-weight: 350;
     font-size: 1rem;
     line-height: 1.5;
@@ -62,6 +62,7 @@ nav_order: 5
     color: inherit;
   }
 </style>
+
 
 
 
