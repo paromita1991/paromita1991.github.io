@@ -16,12 +16,14 @@ nav_order: 3
     margin-bottom: 0.75rem;
     padding-top: 1rem;
     border-top: 1px solid #eee;
-    font-weight: 650;
-    letter-spacing: 0.2px;
+    font-weight: 400;       /* not bold */
+    color: #777;            /* grey */
+    letter-spacing: 0.5px;
   }
 
-  /* Optional: slightly tighter bib spacing (works with many Jekyll Scholar themes) */
-  .publications .bibliography li { margin-bottom: 0.75rem; }
+  .publications .bibliography li {
+    margin-bottom: 0.75rem;
+  }
 </style>
 
 <div class="publications">
