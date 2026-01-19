@@ -10,16 +10,25 @@ nav_order: 2
 <style>
   :root {
     --accent-purple: #6f42c1;
-    --text-primary: #222;
-    --text-secondary: #555;
+    --research-title: #6f42c1;
+    --research-text: #555;
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
       --accent-purple: #bfa7ff;
-      --text-primary: #eaeaea;
-      --text-secondary: #b5b5b5;
+      --research-title: #bfa7ff;
+      --research-text: #ffffff;
     }
+  }
+
+  html[data-theme="dark"],
+  html.dark,
+  body.dark,
+  body[data-theme="dark"] {
+    --accent-purple: #bfa7ff;
+    --research-title: #bfa7ff;
+    --research-text: #ffffff;
   }
 
   .research-areas {
@@ -32,19 +41,29 @@ nav_order: 2
 
   .research-title {
     font-weight: 600;
-    color: var(--accent-purple);
+    color: var(--research-title);
     display: block;
     margin-bottom: 0.25rem;
     font-size: 1.05rem;
   }
 
   .research-desc {
-    color: var(--text-secondary);
-    font-size: 1.0rem;      /* was 0.95rem */
-    font-weight: 350;       /* subtle emphasis */
-    line-height: 1.6;       /* better readability */
+    color: var(--research-text) !important;
+    opacity: 1 !important;
+    font-size: 1.0rem;
+    font-weight: 350;
+    line-height: 1.6;
+  }
+
+  .research-desc em,
+  .research-desc strong,
+  .research-desc a {
+    color: inherit !important;
+    opacity: 1 !important;
+    font-size: inherit;
   }
 </style>
+
 
 
 <div class="research-areas"> 
