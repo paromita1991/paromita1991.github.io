@@ -10,21 +10,74 @@ nav_order: 5
 
 
 
-<p>At <span style="color: purple;"><b>USC Marshall</b></span></p>
-<ul>
-<li>Spring 2022,2023 -     BUAD 310 (Applied Business Statistics)</li>
-<li>Spring 2024 - present     DSO 530 (Applied Modern Statistical Learning Methods)</li>
-</ul>
+<style>
+  .teaching-section {
+    max-width: 900px;
+  }
 
-<p>At <span style="color: purple;"><b>Stanford University</b></span></p>
-<ul>
-<li>Winter 2021    STATS/BIO 141-Biostatistics</li>
-<li>Fall 2020    STATS 116- Theory of Probability</li>
-</ul>
+  .teaching-institution {
+    font-weight: 600;
+    color: #6f42c1; /* same muted purple */
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.05rem;
+  }
 
-<p>At <span style="color: purple;"><b>UC Davis</b></span></p>
-<ul>
-<li>Spring 2019    STAT 131A-Introduction to Probability Theory</li>
-<li>Summer 2018    STAT 13- Elementary Statistics</li>
-</ul>
+  .teaching-list {
+    margin-left: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .teaching-list li {
+    margin-bottom: 0.4rem;
+    color: #444;
+    line-height: 1.4;
+  }
+
+  .teaching-term {
+    color: #666;
+    font-size: 0.9rem;
+  }
+</style>
+
+<div class="teaching-section">
+
+  <div class="teaching-institution">University of Southern California (Marshall School of Business)</div>
+  <ul class="teaching-list">
+    <li>
+      BUAD 310 — <em>Applied Business Statistics</em>
+      <span class="teaching-term">(Spring 2022, Spring 2023)</span>
+    </li>
+    <li>
+      DSO 530 — <em>Applied Modern Statistical Learning Methods</em>
+      <span class="teaching-term">(Spring 2024–Present)</span>
+    </li>
+  </ul>
+
+  <div class="teaching-institution">Stanford University</div>
+  <ul class="teaching-list">
+    <li>
+      STATS / BIO 141 — <em>Biostatistics</em>
+      <span class="teaching-term">(Winter 2021)</span>
+    </li>
+    <li>
+      STATS 116 — <em>Theory of Probability</em>
+      <span class="teaching-term">(Fall 2020)</span>
+    </li>
+  </ul>
+
+  <div class="teaching-institution">University of California, Davis</div>
+  <ul class="teaching-list">
+    <li>
+      STAT 131A — <em>Introduction to Probability Theory</em>
+      <span class="teaching-term">(Spring 2019)</span>
+    </li>
+    <li>
+      STAT 13 — <em>Elementary Statistics</em>
+      <span class="teaching-term">(Summer 2018)</span>
+    </li>
+  </ul>
+
+</div>
+
 
