@@ -18,9 +18,9 @@ nav_order: 5
   @media (prefers-color-scheme: dark) {
     :root {
       --accent-purple: #bfa7ff;
-      --text-primary: #eaeaea;
-      --text-muted: #bdbdbd;
-      --text-secondary: #9e9e9e;
+      --text-primary: #ffffff;   /* WHITE text in dark mode */
+      --text-muted: #ffffff;     /* course numbers + names */
+      --text-secondary: #9e9e9e; /* timing stays muted */
     }
   }
 
@@ -45,7 +45,7 @@ nav_order: 5
     margin-bottom: 0.4rem;
     color: var(--text-muted);
     font-weight: 350;
-    font-size: 1rem;     
+    font-size: 1rem;
     line-height: 1.5;
   }
 
@@ -59,9 +59,10 @@ nav_order: 5
   .teaching-list li strong,
   .teaching-list li a {
     font-size: inherit;
-    color: inherit;     
+    color: inherit;
   }
 </style>
+
 
 
 
