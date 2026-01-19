@@ -8,6 +8,22 @@ nav_order: 4
 ---
 
 <style>
+  :root {
+    --accent-purple: #6f42c1;
+    --text-primary: #222;
+    --text-secondary: #666;
+    --text-muted: #444;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --accent-purple: #bfa7ff;   /* softer purple for dark mode */
+      --text-primary: #eaeaea;
+      --text-secondary: #b5b5b5;
+      --text-muted: #cfcfcf;
+    }
+  }
+
   .people-section {
     max-width: 900px;
     margin-top: 1.5rem;
@@ -15,7 +31,7 @@ nav_order: 4
 
   .people-heading {
     font-weight: 600;
-    color: #6f42c1; /* same muted purple */
+    color: var(--accent-purple);
     font-size: 1.15rem;
     margin-bottom: 0.5rem;
   }
@@ -27,19 +43,19 @@ nav_order: 4
 
   .people-list li {
     margin-bottom: 0.4rem;
-    color: #444;
+    color: var(--text-muted);
     line-height: 1.4;
   }
 
   .people-years {
-    color: #666;
+    color: var(--text-secondary);
     font-size: 0.9rem;
     margin-left: 0.25rem;
   }
 
   .people-list a {
     text-decoration: none;
-    color: #222;
+    color: var(--text-primary);
     font-weight: 500;
   }
 
@@ -47,6 +63,7 @@ nav_order: 4
     text-decoration: underline;
   }
 </style>
+
 
 <div class="people-section">
 
